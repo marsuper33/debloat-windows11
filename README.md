@@ -21,21 +21,10 @@ Select `A` for all.
 ## Clone the repo
 
 ```Powershell
-git clone https://github.com/kdpuvvadi/debloat-windows11.git
+git clone https://github.com/marsuper33/debloat-windows11.git
 
 ```
 
-## Quick run
-
-```powershell
-iwr https://puvvadi.me/debloat11 | iex
-```
-
-or
-
-```powershell
-iwr https://git.io/debloat11 | iex
-```
 
 ## Run
 
@@ -49,9 +38,9 @@ If you have any feedback or need help, please open an issue on the repo.
 
 ## Acknowledgements
 
-This is based on windows10debloater by Sycnex.
+This is based on windows10debloater by kdpuvvadi.
 
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+- [Windows11Debloater](https://github.com/kdpuvvadi/debloat-windows1)
 
 ## License
 
